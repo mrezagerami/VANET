@@ -1,0 +1,17 @@
+***Starting server on port 36333 ***
+Loading net-file from '../../extern/veins/examples/veins/erlangen.net.xml' ... done (77ms).
+Loading additional-files from '../../extern/veins/examples/veins/erlangen.poly.xml' ... done (5ms).
+Loading done.
+Simulation version 1.11.0 started with time: 0.00
+Simulation ended at time: 3.40
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 258.41s
+ TraCI-Duration: 247.81s
+ Real time factor: 0.0131574
+ UPS: 0.147053
+Vehicles: 
+ Inserted: 2
+ Running: 2
+ Waiting: 0
+

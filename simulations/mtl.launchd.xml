@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="mtl.net.xml" />
+	<copy file="mtl.rou.xml" />
+	<copy file="mtl.poly.xml" />
+	<copy file="mtl.sumo.cfg" type="config" />
+</launch>
