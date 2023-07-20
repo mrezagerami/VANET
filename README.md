@@ -7,5 +7,5 @@ It extends these to offer a comprehensive suite of models for IVC simulation.
 https://veins.car2x.org/
 
 
-I simulated urban traffic with a map of a part of Montreal, Canada with 50, 100 and 1000 cars and then analyzed the output data.
+I simulated urban traffic with a map of a part of Montreal, Canada, with 50, 100 and 1000 vehicles and also I enabled artery as well, and then analyzed the output data.
 
